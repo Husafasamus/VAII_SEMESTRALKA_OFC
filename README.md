@@ -1,2 +1,1 @@
-# semka
-cauko 
+# NOT FOR RESELL
