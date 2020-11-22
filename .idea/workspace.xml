@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ccd890b-bece-46af-b8e6-c93f5f350e70" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kNuP3gtFmnlPyI4xOR8yPx4BzJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\soky5\Desktop\VAII\php_mysql\www\ahh" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ccd890b-bece-46af-b8e6-c93f5f350e70" name="Default Changelist" comment="" />
+      <created>1605553342271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605553342271</updated>
+      <workItem from="1605553343289" duration="8107000" />
+      <workItem from="1605603824935" duration="4153000" />
+      <workItem from="1606040978232" duration="244000" />
+      <workItem from="1606062472500" duration="487000" />
+      <workItem from="1606063016299" duration="9932000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="378" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606064996496">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="872" y="378" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440/2560.349.1920.1080@0.0.2560.1440" timestamp="1606064996496" />
+    <state x="1085" y="436" key="#com.intellij.ide.util.MemberChooser" timestamp="1606066175775">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1085" y="436" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1440/2560.349.1920.1080@0.0.2560.1440" timestamp="1606066175775" />
+    <state x="1060" y="461" key="FileChooserDialogImpl" timestamp="1606041201787">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1060" y="461" key="FileChooserDialogImpl/0.0.2560.1440/2560.349.1920.1080@0.0.2560.1440" timestamp="1606041201787" />
+    <state x="1027" y="440" key="NewPhpClassDialog" timestamp="1606066039845">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1027" y="440" key="NewPhpClassDialog/0.0.2560.1440/2560.349.1920.1080@0.0.2560.1440" timestamp="1606066039845" />
+    <state x="1093" y="643" key="NewPhpFileDialog" timestamp="1606062897829">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1093" y="643" key="NewPhpFileDialog/0.0.2560.1440/2560.349.1920.1080@0.0.2560.1440" timestamp="1606062897829" />
+    <state x="1177" y="596" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1606065071792">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1177" y="596" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.2560.1440/2560.349.1920.1080@0.0.2560.1440" timestamp="1606065071792" />
+    <state x="1134" y="458" width="925" height="459" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1606065231671">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1134" y="458" width="925" height="459" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.2560.1440/2560.349.1920.1080@0.0.2560.1440" timestamp="1606065231671" />
+  </component>
+</project>
