@@ -1,0 +1,181 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+    line-height: 1.5em;
+    color: #414142;
+    font-family: Arial;
+}
+
+.logo {
+    height: 70px;
+    background-color: #ededed;
+    background-color: rosybrown;
+    background-color: #779ECB;
+
+    text-align: center;
+    position: relative;
+    min-width: 450px;
+    font-size: 17px;
+
+    margin: auto;
+
+    padding: 6px;
+}
+
+.white {
+    background-color: #ededed;
+    height: auto;
+}
+
+.img-logo {
+    width: 60px;
+    height: 60px;
+}
+
+.logo .img-logo {
+    vertical-align: middle;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.me {
+    background-color: #779ECB;
+}
+
+.blok {
+    max-width: 550px;
+    text-align: center;
+    position: relative;
+    /*left: 30%;*/
+    padding: 10px;
+    border: 2px solid;
+    border-color: #779ECB;
+    margin: auto;
+
+}
+
+
+.tabulka-todo {
+    vertical-align: center;
+}
+
+.menubar {
+    /*position: fixed;*/
+    width: 100%;
+    background-color: whitesmoke;
+    overflow: hidden;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 10px;
+
+
+}
+
+.menubar a:hover {
+    background-color: #779ECB;
+    font-weight: bold;
+    color: black;
+}
+
+.menubar a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+
+}
+
+
+.bunka {
+    border: 2px solid;
+    border-color: #779ECB;
+    max-width: 400px;
+    min-height: 300px;
+    margin: auto;
+    display: inline-block;
+
+}
+
+.kontajner {
+    align-items: center;
+}
+
+.mapa {
+    margin: auto;
+}
+.obsah {
+    text-align: center;
+}
+
+h4 {
+    background-color: #779ECB;
+}
+
+.obsah a:hover {
+    font-weight: bold;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
