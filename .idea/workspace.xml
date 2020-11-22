@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ccd890b-bece-46af-b8e6-c93f5f350e70" name="Default Changelist" comment="" />
+    <list default="true" id="8ccd890b-bece-46af-b8e6-c93f5f350e70" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/to_do.php" beforeDir="false" afterPath="$PROJECT_DIR$/to_do.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +20,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kNuP3gtFmnlPyI4xOR8yPx4BzJ" />
   <component name="ProjectViewState">
@@ -50,11 +56,31 @@
       <workItem from="1606040978232" duration="244000" />
       <workItem from="1606062472500" duration="487000" />
       <workItem from="1606063016299" duration="9932000" />
+      <workItem from="1606073682534" duration="758000" />
     </task>
+    <task id="LOCAL-00001" summary="version2">
+      <created>1606073725041</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606073725041</updated>
+    </task>
+    <task id="LOCAL-00002" summary="version2">
+      <created>1606073770870</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606073770870</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="version2" />
+    <option name="LAST_COMMIT_MESSAGE" value="version2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="872" y="378" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606064996496">
@@ -65,6 +91,10 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1085" y="436" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1440/2560.349.1920.1080@0.0.2560.1440" timestamp="1606066175775" />
+    <state x="863" y="287" key="CommitChangelistDialog2" timestamp="1606073769734">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="863" y="287" key="CommitChangelistDialog2/0.0.2560.1440/2560.349.1920.1080@0.0.2560.1440" timestamp="1606073769734" />
     <state x="1060" y="461" key="FileChooserDialogImpl" timestamp="1606041201787">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -77,6 +107,10 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1093" y="643" key="NewPhpFileDialog/0.0.2560.1440/2560.349.1920.1080@0.0.2560.1440" timestamp="1606062897829" />
+    <state x="872" y="453" key="Vcs.Push.Dialog.v2" timestamp="1606073777902">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="872" y="453" key="Vcs.Push.Dialog.v2/0.0.2560.1440/2560.349.1920.1080@0.0.2560.1440" timestamp="1606073777902" />
     <state x="1177" y="596" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1606065071792">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>

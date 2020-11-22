@@ -4,8 +4,8 @@ require_once "DBList.php";
 $data = new DBList();
 
 
-if (isset($_POST['co_robit']) && isset($_POST['stav'])) {
-    $data->vytvorUlohu($_POST['co_robit'], $_POST['stav']);
+if (isset($_POST['co_robit']) && isset($_POST['stav_'])) {
+    $data->vytvorUlohu($_POST['co_robit'], $_POST['stav_']);
 }
 
 if (isset($_POST['delete'])) {
@@ -37,21 +37,7 @@ $listUloh = $data->getData();
 </a>
 
 
-<div class="blok login" style="text-align: right">
-    <form method="post">
-        <p>
-            <label>Čo robit </label> <br>
-            <input type="text" name="co_robit" required>
-        </p>
-        <p>
-            <label>Stav</label><br>
-            <input type="text" name="stav" required>
-        </p>
-        <p>
-            <input type="submit" value="add">
-        </p>
-    </form>
-</div>
+
 
 <div class="logo white">
     <table class="tabulka-todo" width="100%">
@@ -88,6 +74,23 @@ $listUloh = $data->getData();
             </tr>
 
         <?php } ?>
+
+        <tr>
+            <form method="post">
+                <td>x</td>
+                <td>
+                    <input type="text" name="co_robit" value="" required>
+                </td>
+                <td>
+                    <input type="text" name="stav_" value="" required>
+                </td>
+                <td style="width: 41px">
+                    <input type="submit" value="add">
+                </td>
+            </form>
+        </tr>
+
+
     </table>
 </div>
 
