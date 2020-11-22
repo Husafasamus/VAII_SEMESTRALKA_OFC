@@ -1,1 +1,2 @@
-# VAII_SEMESTRALKA_OFC
+# semka
+cauko 
