@@ -56,7 +56,8 @@
       <workItem from="1606040978232" duration="244000" />
       <workItem from="1606062472500" duration="487000" />
       <workItem from="1606063016299" duration="9932000" />
-      <workItem from="1606073682534" duration="758000" />
+      <workItem from="1606073682534" duration="836000" />
+      <workItem from="1606157566572" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="version2">
       <created>1606073725041</created>
@@ -72,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606073770870</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="version2">
+      <created>1606074659765</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606074659765</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,10 +99,10 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1085" y="436" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1440/2560.349.1920.1080@0.0.2560.1440" timestamp="1606066175775" />
-    <state x="863" y="287" key="CommitChangelistDialog2" timestamp="1606073769734">
+    <state x="863" y="287" key="CommitChangelistDialog2" timestamp="1606074658615">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="863" y="287" key="CommitChangelistDialog2/0.0.2560.1440/2560.349.1920.1080@0.0.2560.1440" timestamp="1606073769734" />
+    <state x="863" y="287" key="CommitChangelistDialog2/0.0.2560.1440/2560.349.1920.1080@0.0.2560.1440" timestamp="1606074658615" />
     <state x="1060" y="461" key="FileChooserDialogImpl" timestamp="1606041201787">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -107,10 +115,10 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1093" y="643" key="NewPhpFileDialog/0.0.2560.1440/2560.349.1920.1080@0.0.2560.1440" timestamp="1606062897829" />
-    <state x="872" y="453" key="Vcs.Push.Dialog.v2" timestamp="1606073777902">
+    <state x="872" y="453" key="Vcs.Push.Dialog.v2" timestamp="1606074665455">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="872" y="453" key="Vcs.Push.Dialog.v2/0.0.2560.1440/2560.349.1920.1080@0.0.2560.1440" timestamp="1606073777902" />
+    <state x="872" y="453" key="Vcs.Push.Dialog.v2/0.0.2560.1440/2560.349.1920.1080@0.0.2560.1440" timestamp="1606074665455" />
     <state x="1177" y="596" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1606065071792">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>

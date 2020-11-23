@@ -54,10 +54,11 @@ $listUloh = $data->getData();
                     <td><?= $uloha->getId() ?></td>
 
                     <td>
-                        <input type="text" name="co" value="<?= $uloha->getCoRobit() ?>">
+                        <input type="text" name="co" value="<?= $uloha->getCoRobit() ?>"  required pattern=".*\S.*" maxlength="255">
+
                     </td>
                     <td>
-                        <input type="text" name="stav" value="<?= $uloha->getStav() ?>">
+                        <input type="text" name="stav" value="<?= $uloha->getStav() ?>" required pattern=".*\S.*" maxlength="100">
                     </td>
                     <td style="width: 41px">
                         <input type="hidden" name="update" value="<?= $uloha->getId() ?>">
@@ -79,13 +80,13 @@ $listUloh = $data->getData();
             <form method="post">
                 <td>x</td>
                 <td>
-                    <input type="text" name="co_robit" value="" required>
+                    <input  type="text" name="co_robit" value="" required pattern=".*\S.*" maxlength="255">
                 </td>
                 <td>
-                    <input type="text" name="stav_" value="" required>
+                    <input  type="text" name="stav_" value="" required pattern=".*\S.*" maxlength="100">
                 </td>
                 <td style="width: 41px">
-                    <input type="submit" value="add">
+                    <input  type="submit" value="add">
                 </td>
             </form>
         </tr>
